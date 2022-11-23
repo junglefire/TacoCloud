@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    generate-unique-name: false
+    name: tacocloud
+
+spring.h2.console.enabled: true
